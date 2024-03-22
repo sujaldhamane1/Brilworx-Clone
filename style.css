@@ -1,0 +1,132 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    font-family:Hanken;
+    background-color:#FCD750;
+
+
+}
+
+html,body{
+height:100%;
+width:100%;
+}
+
+#container{
+    height:100%;
+    width:100%;
+}
+#nav{
+    
+    padding:2.5%;
+    display:flex;
+    justify-content:space-around;
+}
+#nav-left img{
+    width:100%;;
+}
+#nav-right{
+    display:flex;
+    gap:4vw;
+    padding-top:3vh;
+}
+#nav-right h5{
+    height:100%;
+    width:100%;
+}
+#main{
+    
+    display:flex;
+   
+}
+#main-left{
+    padding-left:14vw;
+    padding-top:5vh;
+
+}
+#main-left h5{
+font-size:1vw;
+color:white;
+background-color:#2D2C4C;
+display:inline-block;
+padding:0.3vw 0.5vw;
+}
+#main-left h1{
+    padding-top:4vh;
+    font-size:6vw;
+    color:#2D2C4C;
+}
+#main-left h2{
+  padding-top:2vh;
+    font-weight:100;
+    color:#2D2C4C;
+}
+#main-right{
+    padding-left:7vw ;
+    padding-top:5vh ;
+}
+#main-right img{
+    height:50vh;
+   
+}
+#footer{
+    width:100%;
+    display:flex;
+    justify-content:space-around;
+    padding:10vh 10vw;
+    gap:30px
+}
+
+#foot-1 h3{
+
+color:#48AECB;
+}
+#foot-1 h4{
+    color:#2D2C4C;
+    font-weight:100;
+}
+#foot-1 button{
+    background-color:#48AECB;
+    color:white;
+    border: 0px solid #48AECB;
+    padding:0.5vw;
+    border-radius:5px;
+}
+#foot-1  img{
+    padding:3vh;
+}
+#foot-2 h3{
+
+    color:#48AECB;
+    }
+    #foot-2 h4{
+        color:#2D2C4C;
+        font-weight:100;
+    }
+    #foot-2 button{
+        background-color:#48AECB;
+        color:white;
+        border: 0px solid #48AECB;
+        padding:0.5vw;
+        border-radius:5px;
+    }
+    #foot-2  img{
+        padding:3vh;
+    }
+    #foot-3 h3{
+
+        color:#48AECB;
+        }
+        #foot-3 h4{
+            color:#2D2C4C;
+            font-weight:100;
+        }
+        #foot-3 button{
+            background-color:#48AECB;
+            color:white;
+            border: 0px solid #48AECB;
+            padding:0.5vw;
+            border-radius:5px;
+        }
+        #foot-
